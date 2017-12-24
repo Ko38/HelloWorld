@@ -45,5 +45,16 @@ Column A | Column B | Column C | Column D
  A1 | B1 | C1 | D1
  A2 | B2 | C2 | D2
  A3 | B3 | C3 | D3
+```
 
- 
+ #include<iostream>
+ using namespace std;
+
+ int main(){return 0;}
+```
+
+How to alert: `alert("Hello");`
+
+```
+<script>window.onload=function(){}</script>
+```
