@@ -35,3 +35,6 @@ Here is [my wiki][linked] page
 Hello World
 
 [linked]: https://en.wikipedia.org/wiki/C%2B%2B
+
+<!-- YouTube video link -->
+[![ALT TEXT](http://img.youtube.com/vi/ac_MFSBJc00/0.jpg)](http://www.youtube.com/watch?v=ac_MFSBJc00 "TOOLTIP TEXT")
