@@ -58,3 +58,7 @@ How to alert: `alert("Hello");`
 ```
 <script>window.onload=function(){}</script>
 ```
+
+**Github** emojis: [Emojis](https://gist.github.com/rxaviers/7360908)
+
+:blush:
